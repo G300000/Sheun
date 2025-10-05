@@ -38,18 +38,18 @@ A simple console application for calculating Body Mass Index (BMI) using C#. The
 --------------------------------------
  WELCOME TO C# BMI CALCULATOR     
 --------------------------------------
-Enter your name: John
-Hi John, Please enter your weight in kilograms: 70
-Please enter your height in meters: 1.75
-Hi John, your BMI is: 22.857142. I'm happy and glad to say that you have a normal weight. Keep it stable and keep it cool!
+Enter your name: John   
+Hi John, Please enter your weight in kilograms: 70   
+Please enter your height in meters: 1.75   
+Hi John, your BMI is: 22.857142. I'm happy and glad to say that you have a normal weight. Keep it stable and keep it cool!  
 
-Standard WHO BMI Classification List:
-<18.5: Underweight
-18.5 - 24.9: Normal weight
-25.0 - 29.9: Overweight 30.0 - 34.9: Obesity (Class I)
-35.0 - 39.9: Obesity (Class II) - Severe Obesity
->=40.0: Obesity (Class III) - Morbid/Super Obesity
-Processing complete. Press any key to exit...
+Standard WHO BMI Classification List:  
+<18.5: Underweight  
+18.5 - 24.9: Normal weight  
+25.0 - 29.9: Overweight 30.0 - 34.9: Obesity (Class I)  
+35.0 - 39.9: Obesity (Class II) - Severe Obesity  
+>=40.0: Obesity (Class III) - Morbid/Super Obesity  
+Processing complete. Press any key to exit...  
 
 ## Notes
 
