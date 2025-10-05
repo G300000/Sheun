@@ -64,4 +64,5 @@ class BMICalculator
         Console.WriteLine("Processing complete. Press any key to exit...");
         Console.ReadKey();
     }
+
 }
