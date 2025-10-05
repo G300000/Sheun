@@ -10,6 +10,7 @@ class BMICalculator
         Console.WriteLine("--------------------------------------");
         Console.ResetColor();
 
+        // Note: Any input will do.
         Console.Write("Enter your name: ");
         String name = Console.ReadLine();
 
